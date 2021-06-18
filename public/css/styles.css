@@ -17,7 +17,7 @@ body {
 
 .logo {
     width: 200px;
-    animation: aumentar 1000ms ease-in infinite alternate;
+    /* animation: aumentar 1000ms ease-in infinite alternate; */
 }
 
 @keyframes aumentar {
