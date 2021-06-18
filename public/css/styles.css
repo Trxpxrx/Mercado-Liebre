@@ -144,7 +144,7 @@ body {
     }
 
     .main-navbar {
-        border: dotted 2px red;
+        /* border: dotted 2px red; */
         display: flex;
         justify-content: space-between;
     }
